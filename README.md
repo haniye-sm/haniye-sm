@@ -11,7 +11,7 @@ Hi there! I’m Haniye, an IT graduate passionate about **data and analytics**. 
 ---
 
 ### 🌟 Featured Projects:  
-- 📊 **[SQL Server](https://github.com/haniye-sm/SQL-SERVER):** 
+- 📊 **[SQL Server](https://github.com/haniye-sm/SQL-SERVER)** 
 - 📈 **[Power BI Dashboard]():** Visual analytics for employee data.  
 - 🌐 **[Personal Website](https://github.com/haniye-sm/WordPress-Website):** A WordPress site showcasing creative work.  
 
