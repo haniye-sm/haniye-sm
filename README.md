@@ -17,7 +17,7 @@ Hi there! I’m Haniye, an IT graduate passionate about **data and analytics**. 
 
 ---
 
-### 💡 Fun Facts:  
+### 💡  
 - 🔭 I’m improving my Python skills every day!  
 - 🌱 I love exploring how data can solve real-world problems.  
 
